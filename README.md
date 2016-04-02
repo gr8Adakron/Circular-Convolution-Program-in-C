@@ -25,20 +25,15 @@ Enter the elements of the first matrix : 10<br>
 [ 10    5       8       7       6       ]<br>
 <br>
  Both the Matrix After padding :<br>
-        1st Matrix       2nd Matrix<br>
-             12             <span class="tab">10<br>
-             10             <span class="tab"> 5<br>
-             20             <span class="tab"> 8<br>
-             0               <span class="tab">7<br>
-             0               <span class="tab">6<br>
-<br>
+        1st Matrix  : [12, 10, 20, 0, 0]<br>
+        2nd Matrix  : [10, 5, 8, 7, 6] <br>
+    
  ******* Final Matrix *****<br>
-        10      6       7       8       5<br>
-        5       10      6       7       8<br>
-        8       5       10      6       7<br>
-        7       8       5       10      6<br>
-        6       7       8       5       10<br>
+      |  10       6        7        8        5    |<br>
+      |  5        10       6        7        8    |<br>
+      |  8        5        10       6        7    |<br>
+      |  7        8        5        10       6    |<br>
+      |  6        7        8        5        10   |<br>
 <br>
  ******* Circular Convulated Matrix *****<br><br>
-<br>
 [ 320   280     346     264     302     ]<br>
