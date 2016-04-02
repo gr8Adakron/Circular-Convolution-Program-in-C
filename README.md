@@ -4,7 +4,7 @@
 
 
 Enter the length of the first matrix : 3
-
+.tab{padding-left: 5px}
 Enter the elements of the first matrix : 12<br>
 10<br>
 20<br>
@@ -25,12 +25,12 @@ Enter the elements of the first matrix : 10<br>
 [ 10    5       8       7       6       ]<br>
 <br>
  Both the Matrix After padding :<br>
-        1st Matrix       /t2nd Matrix<br>
-             12              10<br>
-             10              5<br>
-             20              8<br>
-             0               7<br>
-             0               6<br>
+        1st Matrix       2nd Matrix<br>
+             12             <span class="tab">10<br>
+             10             <span class="tab"> 5<br>
+             20             <span class="tab"> 8<br>
+             0               <span class="tab">7<br>
+             0               <span class="tab">6<br>
 <br>
  ******* Final Matrix *****<br>
         10      6       7       8       5<br>
